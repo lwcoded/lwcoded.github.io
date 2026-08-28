@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "jekyll-remote-theme"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jektex"
+gem "kramdown-parser-gfm"
+gem "webrick"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "logger"
